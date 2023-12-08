@@ -1,10 +1,7 @@
 # Conformal prediction enables disease course prediction and allows individualized diagnostic uncertainty in multiple sclerosis
 
-## Steps
-<br>
 
 ---
-
 ### Setting up the environment
 To create and activate the environment. <br>
 ```bash
