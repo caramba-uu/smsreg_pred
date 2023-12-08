@@ -26,7 +26,7 @@ The data is collected from Swedish MS REGistry (SMSREG). The data shall be kept 
 Training and evaluation of both the model and conformal prediction. [random_forest_cp.ipynb](scripts/random_forest_cp.ipynb) <br>
 ### Web-MSPredict
 The model and scripts used for the website model are available in the folder [gradio](gradio).<br>
-Run the website locally using,
+To run the website locally, activate the environment and run
 
 ```bash
 python3 gradio/app.py
