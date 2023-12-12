@@ -18,7 +18,7 @@ python -m ipykernel install --user --name=websmsreg
 
 
 ### Data preprocessing and creating data splits
-The data is collected from Swedish MS REGistry (SMSREG). The data shall be kept in a designated folder. The path to the data can be provided in the notebook under the input section. [data_cleaning_and_splitting.ipynb](scripts/data_cleaning_and_splitting.ipynb)  <br>
+The data is collected from Swedish MS REGistry (SMSREG). The data shall be kept in a designated folder. The path to the data can be provided in the [notebook (data_cleaning_and_splitting.ipynb)](scripts/data_cleaning_and_splitting.ipynb) under the input section.   <br>
 ### Training
 Training and evaluation of both the model and conformal prediction. [random_forest_cp.ipynb](scripts/random_forest_cp.ipynb) <br>
 ### [Web-MSPredict - Take me to the website](websitelink) <br>
