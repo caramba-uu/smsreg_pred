@@ -1,4 +1,4 @@
-name: websmsreg
+name: webmspredict
 channels:
   - anaconda
   - conda-forge
