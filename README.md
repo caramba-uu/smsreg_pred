@@ -26,12 +26,7 @@ The data can be collected from Swedish MS REGistry (SMSREG). The data shall be k
 ### Training
 Code for training and evaluation of both the model and conformal prediction is given in [notebook (random_forest_cp.ipynb)](scripts/random_forest_cp.ipynb) <br>
 ### [Web-MSPredict - Take me to the website](https://web-mspredict.serve.scilifelab.se/) <br>
-The model and scripts used for the website model are available in the [folder gradio](gradio).<br>
-To run the website locally, activate the conda environment and run
-
-```bash
-python3 gradio/app.py
-```
+The model and scripts used for the website model are available in the [folder gradio](gradio).<be>
 
 ## Citation
 Please cite:<br>
