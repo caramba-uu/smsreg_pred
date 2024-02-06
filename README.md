@@ -17,7 +17,7 @@ python -m ipykernel install --user --name=websmsreg
 
 ### Get docker image
 `docker push akshaips7/webmspredict:tagname`  
-OR  
+or  
 `docker push akshaips7/webmspredict:v1`  
 
 
