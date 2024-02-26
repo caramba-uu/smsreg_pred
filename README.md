@@ -3,11 +3,8 @@
 MSP-Tracker
 </a>
 </h1>
-
 <h2 align="center">
-<a href="https://web-mspredict.serve.scilifelab.se/"> 
-Multiple Sclerosis Progression-tracker
-</a>
+(Multiple Sclerosis Progression-tracker)
 </h2>
 
 ---
