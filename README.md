@@ -1,4 +1,4 @@
-# [MSP-Tracker] (https://web-mspredict.serve.scilifelab.se/) <br>
+# [MSP-Tracker](https://web-mspredict.serve.scilifelab.se/) <br>
 ## [Multiple Sclerosis Progression-tracker](https://web-mspredict.serve.scilifelab.se/) <br>
 
 ---
