@@ -1,9 +1,8 @@
-<p align="center">
-<a href="https://web-mspredict.serve.scilifelab.se/"> <h1>
+<h1 align="center">
+<a href="https://web-mspredict.serve.scilifelab.se/"> 
 MSP-Tracker
-</h1>
 </a>
-</p>
+</h1>
 
 # [MSP-Tracker](https://web-mspredict.serve.scilifelab.se/) <br>
 ## [Multiple Sclerosis Progression-tracker](https://web-mspredict.serve.scilifelab.se/) <br>
