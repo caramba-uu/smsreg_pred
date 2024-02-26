@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://web-mspredict.serve.scilifelab.se/"> <span style="font-size:2em;">
+<a href="https://web-mspredict.serve.scilifelab.se/"> <h1>
 MSP-Tracker
-</span>
+</h1>
 </a>
 </p>
 
