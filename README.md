@@ -1,5 +1,7 @@
-# | [MSP-Tracker](https://web-mspredict.serve.scilifelab.se/) |<br>
-## | [Multiple Sclerosis Progression-tracker](https://web-mspredict.serve.scilifelab.se/) | <br>
+<p align="center">
+# [MSP-Tracker](https://web-mspredict.serve.scilifelab.se/) <br>
+## [Multiple Sclerosis Progression-tracker](https://web-mspredict.serve.scilifelab.se/) <br>
+</p>
 
 ---
 ### Setting up the environment
