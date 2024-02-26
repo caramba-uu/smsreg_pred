@@ -10,10 +10,6 @@ Multiple Sclerosis Progression-tracker
 </a>
 </h2>
 
-# [MSP-Tracker](https://web-mspredict.serve.scilifelab.se/) <br>
-## [Multiple Sclerosis Progression-tracker](https://web-mspredict.serve.scilifelab.se/) <br>
-
-
 ---
 ### Setting up the environment
 To create and activate the environment. <br>
