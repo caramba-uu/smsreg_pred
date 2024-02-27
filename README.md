@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://web-mspredict.serve.scilifelab.se/"> 
+<a href="=https://msp-tracker.serve.scilifelab.se/"> 
 MSP-Tracker
 </a></h1>
 <h2 align="center">(Multiple Sclerosis Progression-tracker)</h2>
@@ -24,7 +24,7 @@ python -m ipykernel install --user --name=websmsreg
 The data can be collected from Swedish MS REGistry (SMSREG). The data shall be kept in a designated folder. The path to the data can be provided in the [notebook (data_cleaning_and_splitting.ipynb)](scripts/data_cleaning_and_splitting.ipynb) under the input section.   <br>
 ### Training
 Code for training and evaluation of both the model and conformal prediction is given in [notebook (random_forest_cp.ipynb)](scripts/random_forest_cp.ipynb) <br>
-### [MSP-Tracker - Take me to the website](https://web-mspredict.serve.scilifelab.se/) <br>
+### [MSP-Tracker - Take me to the website](https://msp-tracker.serve.scilifelab.se/) <br>
 The model and scripts used for the website model are available in the [folder gradio](gradio).<br>
 To run the website locally, activate the conda environment and run
 
