@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="=https://msp-tracker.serve.scilifelab.se/"> 
+<a href="https://msp-tracker.serve.scilifelab.se/"> 
 MSP-Tracker
 </a></h1>
 <h2 align="center">(Multiple Sclerosis Progression-tracker)</h2>
