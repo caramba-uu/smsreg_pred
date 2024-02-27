@@ -26,7 +26,9 @@ with gr.Blocks() as demo:
 
 
     citation_box = gr.Checkbox(value=True,visible=True,interactive=True,label="How to cite?")
-    citation_text = gr.Textbox("Conformal prediction enables disease course prediction and allows individualised diagnostic uncertainty in multiple sclerosis \n Status: Submitted")
+    citation_text = gr.Textbox("Conformal prediction enables disease course prediction and allows individualised diagnostic uncertainty in multiple sclerosis \n\
+Akshai Parakkal Sreenivasan, Aina Vaivade, Yassine Noui, Payam Emami Khoonsari, Joachim Burman, Ola Spjuth, Kim Kultima*\n\
+Status: Submitted")
     citation_box.change(dummy.citation_checkbox,[citation_box],[citation_text])
 
 
@@ -176,4 +178,4 @@ with gr.Blocks() as demo:
                                     )
 
 if __name__ == "__main__":
-   demo.launch(share=True,server_name="0.0.0.0",server_port=8000)
+   demo.launch(share=False)
