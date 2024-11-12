@@ -23,7 +23,19 @@ def main(json_data):
     
     x_df = pd.DataFrame(x_test,
                columns = colnames)
-    
+    x_df = x_df[['edss_score',
+            'age_at_visit',
+            'revised_debut_age',
+            'mono_on_sum',
+            'monofocal_sum',
+            'multifocal_sum',
+            'afferent_non_on_sum',
+            'steroid_treatment_sum',
+            'is_last_relapse_steroid_treated',
+            'is_last_relapse_completely_remitted',
+            'age_at_relapse',
+            'age_at_debut_relapse']]
+
     rf = joblib.load(rf_model_path)
     explainer = shap.Explainer(rf, x_df)
     shap_values = explainer(x_df)
